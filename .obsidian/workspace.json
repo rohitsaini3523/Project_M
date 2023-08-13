@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37893883bff13efa",
+            "id": "9c745e78e63b90bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "rohit/Schema.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "174151634f41b3bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rohit/Schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rohit/Schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "rohit/Schema.md"
+              }
             }
           }
         ]
@@ -151,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed5e49fdd738f732",
+  "active": "9c745e78e63b90bc",
   "lastOpenFiles": [
+    "rohit/Schema.md",
     "rohit",
     "README.md",
     "Vatsal/Component Hierarchy.md",
@@ -181,7 +177,6 @@
     "Project Documentation/Product Documentation",
     "Project Documentation",
     "Project Related Diagrams",
-    "Daily Agenda",
-    "Resources"
+    "Daily Agenda"
   ]
 }
