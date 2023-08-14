@@ -11,11 +11,14 @@
             "id": "9c745e78e63b90bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "rohit/Schema.md",
-                "mode": "source",
-                "source": false
+                "file": "rohit/System Design.canvas",
+                "viewState": {
+                  "x": -455,
+                  "y": -50,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rohit/Schema.md",
+                "file": "rohit/System Design.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rohit/Schema.md",
+                "file": "rohit/System Design.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rohit/Schema.md"
+                "file": "rohit/System Design.canvas"
               }
             }
           }
@@ -148,7 +151,8 @@
   },
   "active": "9c745e78e63b90bc",
   "lastOpenFiles": [
-    "rohit/Schema.md",
+    "rohit/System Design.md",
+    "rohit/System Design.canvas",
     "rohit",
     "README.md",
     "Vatsal/Component Hierarchy.md",
@@ -166,7 +170,6 @@
     "rohit/Schema Relations.md",
     "rohit/Schema Relations",
     "rohit/System Design of Photosphere.canvas",
-    "rohit/System Design.md",
     "rohit",
     "conflict-files-obsidian-git.md",
     "2023-08-10.md",
