@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f0a1d23ae720e2d8",
+        "id": "da69d4ba0871d6a1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c745e78e63b90bc",
+            "id": "16bb4419c7fa946d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "rohit/System Design.canvas",
                 "viewState": {
-                  "x": -449.9267578672318,
-                  "y": -58.24624279692924,
-                  "zoom": 0.25441526442766194
+                  "x": -455,
+                  "y": -50,
+                  "zoom": 0
                 }
               }
             }
@@ -131,6 +131,14 @@
                 "file": "rohit/System Design.canvas"
               }
             }
+          },
+          {
+            "id": "b455012286d59fd5",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,10 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c745e78e63b90bc",
+  "active": "ed5e49fdd738f732",
   "lastOpenFiles": [
-    "rohit/Full-Stack Project Setps.md",
+    "rohit/Untitled",
+    "Project Documentation/Frontend/Component Hierarchy.md",
     "rohit/System Design.canvas",
+    "Project Documentation/Frontend",
+    "Project Documentation",
+    "rohit/Full-Stack Project Setps.md",
     "rohit/Full-Stack App Structure.md",
     "rohit/System Design.md",
     "rohit",
@@ -180,8 +192,6 @@
     "Project Related Diagrams/Untitled mindmap.md",
     "Project Documentation/Process Documentation",
     "Project Documentation/Product Documentation",
-    "Project Documentation",
-    "Project Related Diagrams",
-    "Daily Agenda"
+    "Project Related Diagrams"
   ]
 }
