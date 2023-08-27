@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "rohit/System Design.canvas",
+                "file": "rohit/Untitled.canvas",
                 "viewState": {
-                  "x": -455,
-                  "y": -50,
-                  "zoom": 0
+                  "x": 10.182354912435436,
+                  "y": 91.64321862939883,
+                  "zoom": -0.5
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4597af13939be4e4",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rohit/System Design.canvas",
+                "file": "rohit/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rohit/System Design.canvas",
+                "file": "rohit/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rohit/System Design.canvas"
+                "file": "rohit/Untitled.canvas"
               }
             }
           },
@@ -157,11 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed5e49fdd738f732",
+  "active": "16bb4419c7fa946d",
   "lastOpenFiles": [
+    "Resources/Useful Links.md",
+    "rohit/Untitled.canvas",
+    "rohit/Capstone Project.md",
+    "rohit/System Design.canvas",
     "rohit/Untitled",
     "Project Documentation/Frontend/Component Hierarchy.md",
-    "rohit/System Design.canvas",
     "Project Documentation/Frontend",
     "Project Documentation",
     "rohit/Full-Stack Project Setps.md",
@@ -180,7 +184,6 @@
     "Daily Agenda/2023-08-06.md",
     "Vatsal",
     "Daily Agenda/2023-08-04.md",
-    "Resources/Useful Links.md",
     "rohit/Schema Relations.md",
     "rohit/Schema Relations",
     "rohit/System Design of Photosphere.canvas",
@@ -191,7 +194,6 @@
     "Project Related Diagrams/Untitled.md",
     "Project Related Diagrams/Untitled mindmap.md",
     "Project Documentation/Process Documentation",
-    "Project Documentation/Product Documentation",
-    "Project Related Diagrams"
+    "Project Documentation/Product Documentation"
   ]
 }
