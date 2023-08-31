@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "da69d4ba0871d6a1",
+        "id": "2e675ced8d382e51",
         "type": "tabs",
         "children": [
           {
-            "id": "16bb4419c7fa946d",
+            "id": "ff3a6dc4e13b7b39",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "rohit/Untitled.canvas",
                 "viewState": {
-                  "x": 10.182354912435436,
-                  "y": 91.64321862939883,
-                  "zoom": -0.5
+                  "x": 25,
+                  "y": 70,
+                  "zoom": 0
                 }
               }
             }
@@ -157,10 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16bb4419c7fa946d",
+  "active": "ff3a6dc4e13b7b39",
   "lastOpenFiles": [
-    "Resources/Useful Links.md",
     "rohit/Untitled.canvas",
+    "Resources/Useful Links.md",
     "rohit/Capstone Project.md",
     "rohit/System Design.canvas",
     "rohit/Untitled",
