@@ -11,8 +11,15 @@
             "id": "fdcf9b732cb34b60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Project Related Diagrams/Documentation Structure.canvas",
+                "viewState": {
+                  "x": 166.5,
+                  "y": 15,
+                  "zoom": -1.7867808379528047
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Related Diagrams/Documentation Structure.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project Related Diagrams/Documentation Structure.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Related Diagrams/Documentation Structure.canvas"
+              }
             }
           },
           {
@@ -147,13 +158,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdcf9b732cb34b60",
+  "active": "ed5e49fdd738f732",
   "lastOpenFiles": [
+    "rohit/System Design.canvas",
     "rohit/Untitled.md",
     "rohit/Untitled.canvas",
     "Resources/Useful Links.md",
     "rohit/Capstone Project.md",
-    "rohit/System Design.canvas",
     "rohit/Untitled",
     "Project Documentation/Frontend/Component Hierarchy.md",
     "Project Documentation/Frontend",
